@@ -1,0 +1,24 @@
+{
+  "name": "corsforswiggy",
+  "version": "1.0.0",
+  "description": "corsIssue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/preetipatil019/CORSforSwiggy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/preetipatil019/CORSforSwiggy/issues"
+  },
+  "homepage": "https://github.com/preetipatil019/CORSforSwiggy#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "cross-fetch": "^3.1.5",
+    "express": "^4.18.2"
+  }
+}
